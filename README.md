@@ -1,2 +1,3 @@
-# RustyCode
-锈迹斑斑的 LeetCode 代码
+# RustyTrial
+
+> The Rusty Trial Ground
